@@ -11,5 +11,7 @@
 !*.docx
 !*.jpg
 !*.JPG
+!*.exe
+!*.coe
 !*.drawio
 !*.gitignore
