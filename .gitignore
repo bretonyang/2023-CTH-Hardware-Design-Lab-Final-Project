@@ -1,0 +1,15 @@
+#ignore all kind of files
+*
+!*/
+
+#except 
+!*.v
+!*.xdc
+!*.bit
+!*.zip
+!*.pdf
+!*.docx
+!*.jpg
+!*.JPG
+!*.drawio
+!*.gitignore
